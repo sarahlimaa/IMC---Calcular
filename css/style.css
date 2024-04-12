@@ -1,0 +1,43 @@
+.home{
+    background: #407178;
+    color:white;
+}
+
+.caixa {
+    padding: 60px 0px;
+    /*60px acima e abaixo 0px direita e esquerda*/
+    border-bottom: 2px solid #e5e5e5;
+}
+
+footer p a {
+
+    margin: 5px 15px;
+
+}
+
+.titulo2{
+    color:#407178;
+}
+
+.btn{
+    background-color: #407178;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #71B0B4;
+}
+
+.btn2{
+    background-color:#71B0B4;
+}
+
+.btn2:hover{
+    background-color: #407178;
+    color: white;
+}
+
+.resultado{
+    color:#407178;
+}
+
